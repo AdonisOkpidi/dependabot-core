@@ -139,10 +139,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@dependabot/yarn-lib@^1.19.1":
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/@dependabot/yarn-lib/-/yarn-lib-1.19.1.tgz#99cb97d8abc9318d903e7b2206b3d3036837f057"
-  integrity sha512-gSGhWFLe2z0VvwUdmD+xApkI0hIqmBsS0nhKT95TbN6/95eef4mS4RR60nh7YCnEspFpaW5xKdi+5THgVD9CbQ==
+"@dependabot/yarn-lib@^1.21.1":
+  version "1.21.1"
+  resolved "https://registry.yarnpkg.com/@dependabot/yarn-lib/-/yarn-lib-1.21.1.tgz#52098b3feac530fe4a5765f0ccc9ac982f19f5e7"
+  integrity sha512-wroyXO/e0h077IkPxLGJRIdMYzQWGIiLiYrhx2y6pwDfh6I492Saof5G80si21ltU3fHpCpGlB9cenr9b7Ak3Q==
   dependencies:
     "@zkochan/cmd-shim" "^3.1.0"
     babel-runtime "^6.26.0"
@@ -4365,7 +4365,6 @@ npm@6.12.1:
     cmd-shim "^3.0.3"
     columnify "~1.5.4"
     config-chain "^1.1.12"
-    debuglog "*"
     detect-indent "~5.0.0"
     detect-newline "^2.1.0"
     dezalgo "~1.0.3"
@@ -4380,7 +4379,6 @@ npm@6.12.1:
     has-unicode "~2.0.1"
     hosted-git-info "^2.8.5"
     iferr "^1.0.2"
-    imurmurhash "*"
     infer-owner "^1.0.4"
     inflight "~1.0.6"
     inherits "^2.0.4"
@@ -4399,14 +4397,8 @@ npm@6.12.1:
     libnpx "^10.2.0"
     lock-verify "^2.1.0"
     lockfile "^1.0.4"
-    lodash._baseindexof "*"
     lodash._baseuniq "~4.6.0"
-    lodash._bindcallback "*"
-    lodash._cacheindexof "*"
-    lodash._createcache "*"
-    lodash._getnative "*"
     lodash.clonedeep "~4.5.0"
-    lodash.restparam "*"
     lodash.union "~4.6.0"
     lodash.uniq "~4.5.0"
     lodash.without "~4.4.0"
